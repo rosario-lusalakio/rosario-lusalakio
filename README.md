@@ -1,7 +1,7 @@
 # Seja Bem-vindo(a) ao meu perfil
 
 ## 👤 Apresentação Pessoal
-Olá, o meu nome é **Rosário Lusalako**, sou angolano e tenho **18 anos**.  
+Olá, o meu nome é **Rosário Lusalakio**, sou angolano e tenho **18 anos**.  
 Sou o fundador da **Lusafy TI**, uma empresa que presta serviços técnicos e digitais, como desenvolvimento web, suporte informático e otimização de sistemas.
 
 ## Interesses
