@@ -2,7 +2,7 @@
 
 ## 👤 Apresentação Pessoal
 Olá, o meu nome é **Rosário**, sou angolano e tenho **18 anos**.  
-Atualmente estou a frequentar o Ensino Médio no curso de **Técnico Informático**.
+Sou o fundador da **Lusafy TI**, uma empresa que presta serviços técnicos e digitais, como desenvolvimento web, suporte informático e otimização de sistemas."
 
 ## Interesses
 - Tenho gosto pela **informática** desde muito cedo.  
